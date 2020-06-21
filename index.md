@@ -17,4 +17,4 @@ Privat ist Adam Sandler gut mit Schauspielerkollege Kevin james befreundet. In d
 ## Filmzitat aus "Meine erfundene Frau"
 > Nein, Opa gab uns etwas, das nennt sich Heineken.
 ## Bild
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adam_Sandler_on_%27Blended%27_Red_Carpet_in_Berlin_%2814043442427%29.jpg/681px-Adam_Sandler_on_%27Blended%27_Red_Carpet_in_Berlin_%2814043442427%29.jpg/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adam_Sandler_on_%27Blended%27_Red_Carpet_in_Berlin_%2814043442427%29.jpg/681px-Adam_Sandler_on_%27Blended%27_Red_Carpet_in_Berlin_%2814043442427%29.jpg"/>
