@@ -14,3 +14,5 @@ Privat ist Adam Sandler gut mit Schauspielerkollege Kevin james befreundet. In d
 * erfolgreiche Filme wie z.B. "Leg dich nicht mit Zohan an"
 * deutsche Synchronstimme ist seit 2000 Dietmar Wunder
 * befreundet mit Kevin James und Peter Dante
+## Filmzitat aus "Meine erfundene Frau"
+> Nein, Opa gab uns etwas, das nennt sich Heineken.
